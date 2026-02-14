@@ -1,0 +1,35 @@
+{
+    "config": {
+        "calc_obstat_prob": 0.01,
+        "episodes_per_batch": 50,
+        "eval_prob": 0.01,
+        "l2coeff": 0.005,
+        "noise_stdev": 0.02,
+        "snapshot_freq": 20,
+        "timesteps_per_batch": 2048,
+        "return_proc_mode": "centered_rank",
+        "episode_cutoff_mode": "env_default"
+    },
+    "env_id": "Hopper-v4",
+    "seed": 3,
+    "exp_prefix": "ES_Hopper_1Worker_Seed3",
+    "optimizer": {
+        "args": {
+            "stepsize": 0.01
+        },
+        "type": "adam"
+    },
+    "policy": {
+        "args": {
+            "ac_bins": "uniform:10",
+            "ac_noise_std": 0.01,
+            "connection_type": "ff",
+            "hidden_dims": [
+                64,
+                64
+            ],
+            "nonlin_type": "tanh"
+        },
+        "type": "MujocoPolicy"
+    }
+}

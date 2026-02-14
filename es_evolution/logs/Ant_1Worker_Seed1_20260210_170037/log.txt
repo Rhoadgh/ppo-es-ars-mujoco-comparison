@@ -1,0 +1,1661 @@
+********** Iteration 0 **********
+----------------------------------
+| EpRewMean           | 978      |
+| EpRewStd            | 29.3     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 129      |
+| GradNorm            | 13.8     |
+| UpdateRatio         | 0.0711   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 50       |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 5e+04    |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.04     |
+| ResultsSkippedFrac  | 0        |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 30.4     |
+| TimeElapsed         | 30.4     |
+----------------------------------
+Saved snapshot logs/Ant_1Worker_Seed1_20260210_170037/snapshot_iter00000_rewnan.h5
+********** Iteration 1 **********
+----------------------------------
+| EpRewMean           | 977      |
+| EpRewStd            | 34.1     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 129      |
+| GradNorm            | 12.4     |
+| UpdateRatio         | 0.0504   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 102      |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 1.02e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 17.8     |
+| TimeElapsed         | 48.2     |
+----------------------------------
+********** Iteration 2 **********
+----------------------------------
+| EpRewMean           | 975      |
+| EpRewStd            | 32.7     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | 1.02e+03 |
+| EvalEpRewStd        | 0        |
+| EvalEpLenMean       | 1e+03    |
+| EvalPopRank         | 0.98     |
+| EvalEpCount         | 1        |
+| Norm                | 130      |
+| GradNorm            | 13.3     |
+| UpdateRatio         | 0.041    |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 155      |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 1.55e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.037    |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 3e+03    |
+| TimeElapsedThisIter | 19.1     |
+| TimeElapsed         | 67.3     |
+----------------------------------
+********** Iteration 3 **********
+----------------------------------
+| EpRewMean           | 956      |
+| EpRewStd            | 30.7     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 131      |
+| GradNorm            | 12.1     |
+| UpdateRatio         | 0.0353   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 207      |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 2.07e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 18       |
+| TimeElapsed         | 85.2     |
+----------------------------------
+********** Iteration 4 **********
+----------------------------------
+| EpRewMean           | 936      |
+| EpRewStd            | 39.7     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 131      |
+| GradNorm            | 9.5      |
+| UpdateRatio         | 0.0314   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 259      |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 2.59e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 17       |
+| TimeElapsed         | 102      |
+----------------------------------
+********** Iteration 5 **********
+----------------------------------
+| EpRewMean           | 951      |
+| EpRewStd            | 32.5     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | 973      |
+| EvalEpRewStd        | 0        |
+| EvalEpLenMean       | 1e+03    |
+| EvalPopRank         | 0.78     |
+| EvalEpCount         | 1        |
+| Norm                | 132      |
+| GradNorm            | 14.2     |
+| UpdateRatio         | 0.0291   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 312      |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 3.12e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.037    |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 17.2     |
+| TimeElapsed         | 119      |
+----------------------------------
+********** Iteration 6 **********
+----------------------------------
+| EpRewMean           | 942      |
+| EpRewStd            | 36.1     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 133      |
+| GradNorm            | 10       |
+| UpdateRatio         | 0.0268   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 364      |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 3.64e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 16.8     |
+| TimeElapsed         | 136      |
+----------------------------------
+********** Iteration 7 **********
+----------------------------------
+| EpRewMean           | 933      |
+| EpRewStd            | 47.2     |
+| EpLenMean           | 998      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 133      |
+| GradNorm            | 14.1     |
+| UpdateRatio         | 0.0252   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 416      |
+| TimestepsThisIter   | 4.99e+04 |
+| TimestepsSoFar      | 4.16e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.9     |
+| TimeElapsed         | 153      |
+----------------------------------
+********** Iteration 8 **********
+----------------------------------
+| EpRewMean           | 939      |
+| EpRewStd            | 53.5     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | 973      |
+| EvalEpRewStd        | 0        |
+| EvalEpLenMean       | 1e+03    |
+| EvalPopRank         | 0.74     |
+| EvalEpCount         | 1        |
+| Norm                | 134      |
+| GradNorm            | 9.71     |
+| UpdateRatio         | 0.0235   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 469      |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 4.69e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.037    |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 17.6     |
+| TimeElapsed         | 171      |
+----------------------------------
+********** Iteration 9 **********
+----------------------------------
+| EpRewMean           | 951      |
+| EpRewStd            | 51.5     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | 981      |
+| EvalEpRewStd        | 0        |
+| EvalEpLenMean       | 1e+03    |
+| EvalPopRank         | 0.76     |
+| EvalEpCount         | 1        |
+| Norm                | 135      |
+| GradNorm            | 13.9     |
+| UpdateRatio         | 0.0227   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 522      |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 5.22e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.037    |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 18.3     |
+| TimeElapsed         | 189      |
+----------------------------------
+********** Iteration 10 **********
+----------------------------------
+| EpRewMean           | 932      |
+| EpRewStd            | 60.6     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 135      |
+| GradNorm            | 11.6     |
+| UpdateRatio         | 0.0216   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 574      |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 5.74e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 17.9     |
+| TimeElapsed         | 207      |
+----------------------------------
+********** Iteration 11 **********
+----------------------------------
+| EpRewMean           | 921      |
+| EpRewStd            | 105      |
+| EpLenMean           | 986      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 136      |
+| GradNorm            | 8.46     |
+| UpdateRatio         | 0.0206   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 626      |
+| TimestepsThisIter   | 4.93e+04 |
+| TimestepsSoFar      | 6.25e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 17.2     |
+| TimeElapsed         | 224      |
+----------------------------------
+********** Iteration 12 **********
+----------------------------------
+| EpRewMean           | 920      |
+| EpRewStd            | 90.4     |
+| EpLenMean           | 989      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 136      |
+| GradNorm            | 11       |
+| UpdateRatio         | 0.02     |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 678      |
+| TimestepsThisIter   | 4.94e+04 |
+| TimestepsSoFar      | 6.77e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 16.3     |
+| TimeElapsed         | 240      |
+----------------------------------
+********** Iteration 13 **********
+----------------------------------
+| EpRewMean           | 908      |
+| EpRewStd            | 60.9     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | 866      |
+| EvalEpRewStd        | 0        |
+| EvalEpLenMean       | 1e+03    |
+| EvalPopRank         | 0.18     |
+| EvalEpCount         | 1        |
+| Norm                | 137      |
+| GradNorm            | 16       |
+| UpdateRatio         | 0.0199   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 731      |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 7.3e+05  |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.037    |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 16.5     |
+| TimeElapsed         | 257      |
+----------------------------------
+********** Iteration 14 **********
+----------------------------------
+| EpRewMean           | 883      |
+| EpRewStd            | 129      |
+| EpLenMean           | 981      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 138      |
+| GradNorm            | 11.5     |
+| UpdateRatio         | 0.0193   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 783      |
+| TimestepsThisIter   | 4.91e+04 |
+| TimestepsSoFar      | 7.81e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.1     |
+| TimeElapsed         | 273      |
+----------------------------------
+********** Iteration 15 **********
+----------------------------------
+| EpRewMean           | 882      |
+| EpRewStd            | 141      |
+| EpLenMean           | 964      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 138      |
+| GradNorm            | 10.7     |
+| UpdateRatio         | 0.0188   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 835      |
+| TimestepsThisIter   | 4.82e+04 |
+| TimestepsSoFar      | 8.31e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.7     |
+| TimeElapsed         | 289      |
+----------------------------------
+********** Iteration 16 **********
+----------------------------------
+| EpRewMean           | 887      |
+| EpRewStd            | 136      |
+| EpLenMean           | 980      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 139      |
+| GradNorm            | 13.2     |
+| UpdateRatio         | 0.0185   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 887      |
+| TimestepsThisIter   | 4.9e+04  |
+| TimestepsSoFar      | 8.82e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16       |
+| TimeElapsed         | 305      |
+----------------------------------
+********** Iteration 17 **********
+----------------------------------
+| EpRewMean           | 906      |
+| EpRewStd            | 140      |
+| EpLenMean           | 981      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 139      |
+| GradNorm            | 15.4     |
+| UpdateRatio         | 0.0185   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 939      |
+| TimestepsThisIter   | 4.9e+04  |
+| TimestepsSoFar      | 9.33e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.9     |
+| TimeElapsed         | 321      |
+----------------------------------
+********** Iteration 18 **********
+----------------------------------
+| EpRewMean           | 896      |
+| EpRewStd            | 139      |
+| EpLenMean           | 980      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 140      |
+| GradNorm            | 9.67     |
+| UpdateRatio         | 0.0179   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 991      |
+| TimestepsThisIter   | 4.9e+04  |
+| TimestepsSoFar      | 9.84e+05 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.1     |
+| TimeElapsed         | 337      |
+----------------------------------
+********** Iteration 19 **********
+----------------------------------
+| EpRewMean           | 909      |
+| EpRewStd            | 82.7     |
+| EpLenMean           | 995      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 140      |
+| GradNorm            | 12.8     |
+| UpdateRatio         | 0.0176   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.04e+03 |
+| TimestepsThisIter   | 4.97e+04 |
+| TimestepsSoFar      | 1.04e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.4     |
+| TimeElapsed         | 353      |
+----------------------------------
+********** Iteration 20 **********
+----------------------------------
+| EpRewMean           | 908      |
+| EpRewStd            | 142      |
+| EpLenMean           | 970      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 140      |
+| GradNorm            | 13       |
+| UpdateRatio         | 0.0176   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.1e+03  |
+| TimestepsThisIter   | 4.85e+04 |
+| TimestepsSoFar      | 1.09e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.1     |
+| TimeElapsed         | 369      |
+----------------------------------
+Saved snapshot logs/Ant_1Worker_Seed1_20260210_170037/snapshot_iter00020_rewnan.h5
+********** Iteration 21 **********
+----------------------------------
+| EpRewMean           | 911      |
+| EpRewStd            | 117      |
+| EpLenMean           | 988      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 141      |
+| GradNorm            | 15.1     |
+| UpdateRatio         | 0.0175   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.15e+03 |
+| TimestepsThisIter   | 4.94e+04 |
+| TimestepsSoFar      | 1.14e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 16.7     |
+| TimeElapsed         | 386      |
+----------------------------------
+********** Iteration 22 **********
+----------------------------------
+| EpRewMean           | 965      |
+| EpRewStd            | 54.6     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 142      |
+| GradNorm            | 13.5     |
+| UpdateRatio         | 0.0175   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.2e+03  |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 1.19e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 17.2     |
+| TimeElapsed         | 403      |
+----------------------------------
+********** Iteration 23 **********
+----------------------------------
+| EpRewMean           | 949      |
+| EpRewStd            | 54.6     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 142      |
+| GradNorm            | 10.9     |
+| UpdateRatio         | 0.0171   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.25e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 1.24e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 2e+03    |
+| TimeElapsedThisIter | 16.6     |
+| TimeElapsed         | 420      |
+----------------------------------
+********** Iteration 24 **********
+----------------------------------
+| EpRewMean           | 946      |
+| EpRewStd            | 132      |
+| EpLenMean           | 984      |
+| EvalEpRewMean       | 1.09e+03 |
+| EvalEpRewStd        | 0        |
+| EvalEpLenMean       | 1e+03    |
+| EvalPopRank         | 0.98     |
+| EvalEpCount         | 1        |
+| Norm                | 143      |
+| GradNorm            | 12       |
+| UpdateRatio         | 0.0169   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.3e+03  |
+| TimestepsThisIter   | 4.92e+04 |
+| TimestepsSoFar      | 1.29e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.037    |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.6     |
+| TimeElapsed         | 436      |
+----------------------------------
+********** Iteration 25 **********
+----------------------------------
+| EpRewMean           | 960      |
+| EpRewStd            | 124      |
+| EpLenMean           | 984      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 143      |
+| GradNorm            | 10.5     |
+| UpdateRatio         | 0.0164   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.36e+03 |
+| TimestepsThisIter   | 4.92e+04 |
+| TimestepsSoFar      | 1.34e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 16.2     |
+| TimeElapsed         | 453      |
+----------------------------------
+********** Iteration 26 **********
+----------------------------------
+| EpRewMean           | 969      |
+| EpRewStd            | 63.2     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 144      |
+| GradNorm            | 14       |
+| UpdateRatio         | 0.0165   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.41e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 1.4e+06  |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.4     |
+| TimeElapsed         | 469      |
+----------------------------------
+********** Iteration 27 **********
+----------------------------------
+| EpRewMean           | 987      |
+| EpRewStd            | 97.9     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 144      |
+| GradNorm            | 11       |
+| UpdateRatio         | 0.0162   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.46e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 1.45e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.3     |
+| TimeElapsed         | 485      |
+----------------------------------
+********** Iteration 28 **********
+----------------------------------
+| EpRewMean           | 956      |
+| EpRewStd            | 148      |
+| EpLenMean           | 982      |
+| EvalEpRewMean       | 1.16e+03 |
+| EvalEpRewStd        | 0        |
+| EvalEpLenMean       | 1e+03    |
+| EvalPopRank         | 1        |
+| EvalEpCount         | 1        |
+| Norm                | 144      |
+| GradNorm            | 13       |
+| UpdateRatio         | 0.0161   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.51e+03 |
+| TimestepsThisIter   | 4.91e+04 |
+| TimestepsSoFar      | 1.5e+06  |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.037    |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.2     |
+| TimeElapsed         | 502      |
+----------------------------------
+********** Iteration 29 **********
+----------------------------------
+| EpRewMean           | 980      |
+| EpRewStd            | 110      |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 145      |
+| GradNorm            | 11       |
+| UpdateRatio         | 0.0159   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.56e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 1.55e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.2     |
+| TimeElapsed         | 518      |
+----------------------------------
+********** Iteration 30 **********
+----------------------------------
+| EpRewMean           | 961      |
+| EpRewStd            | 187      |
+| EpLenMean           | 963      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 145      |
+| GradNorm            | 11.8     |
+| UpdateRatio         | 0.0157   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.62e+03 |
+| TimestepsThisIter   | 4.81e+04 |
+| TimestepsSoFar      | 1.6e+06  |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.6     |
+| TimeElapsed         | 533      |
+----------------------------------
+********** Iteration 31 **********
+----------------------------------
+| EpRewMean           | 966      |
+| EpRewStd            | 138      |
+| EpLenMean           | 978      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 146      |
+| GradNorm            | 11.1     |
+| UpdateRatio         | 0.0155   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.67e+03 |
+| TimestepsThisIter   | 4.89e+04 |
+| TimestepsSoFar      | 1.65e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16       |
+| TimeElapsed         | 549      |
+----------------------------------
+********** Iteration 32 **********
+----------------------------------
+| EpRewMean           | 988      |
+| EpRewStd            | 103      |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 146      |
+| GradNorm            | 13.3     |
+| UpdateRatio         | 0.0156   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.72e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 1.71e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 16.5     |
+| TimeElapsed         | 566      |
+----------------------------------
+********** Iteration 33 **********
+----------------------------------
+| EpRewMean           | 1.02e+03 |
+| EpRewStd            | 96.5     |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 147      |
+| GradNorm            | 12       |
+| UpdateRatio         | 0.0156   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.77e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 1.76e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.3     |
+| TimeElapsed         | 582      |
+----------------------------------
+********** Iteration 34 **********
+----------------------------------
+| EpRewMean           | 1.02e+03 |
+| EpRewStd            | 111      |
+| EpLenMean           | 999      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 147      |
+| GradNorm            | 8.99     |
+| UpdateRatio         | 0.0151   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.82e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 1.81e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 17       |
+| TimeElapsed         | 599      |
+----------------------------------
+********** Iteration 35 **********
+----------------------------------
+| EpRewMean           | 1e+03    |
+| EpRewStd            | 107      |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 147      |
+| GradNorm            | 9.68     |
+| UpdateRatio         | 0.015    |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.88e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 1.86e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 16.8     |
+| TimeElapsed         | 616      |
+----------------------------------
+********** Iteration 36 **********
+----------------------------------
+| EpRewMean           | 999      |
+| EpRewStd            | 117      |
+| EpLenMean           | 997      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 148      |
+| GradNorm            | 13.1     |
+| UpdateRatio         | 0.0152   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.93e+03 |
+| TimestepsThisIter   | 4.99e+04 |
+| TimestepsSoFar      | 1.91e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 17.1     |
+| TimeElapsed         | 633      |
+----------------------------------
+********** Iteration 37 **********
+----------------------------------
+| EpRewMean           | 1.05e+03 |
+| EpRewStd            | 110      |
+| EpLenMean           | 999      |
+| EvalEpRewMean       | 1.17e+03 |
+| EvalEpRewStd        | 0        |
+| EvalEpLenMean       | 1e+03    |
+| EvalPopRank         | 0.92     |
+| EvalEpCount         | 1        |
+| Norm                | 148      |
+| GradNorm            | 12       |
+| UpdateRatio         | 0.0151   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 1.98e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 1.97e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.037    |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 16.5     |
+| TimeElapsed         | 650      |
+----------------------------------
+********** Iteration 38 **********
+----------------------------------
+| EpRewMean           | 1.03e+03 |
+| EpRewStd            | 131      |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 149      |
+| GradNorm            | 8.02     |
+| UpdateRatio         | 0.0147   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.03e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 2.02e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.1     |
+| TimeElapsed         | 666      |
+----------------------------------
+********** Iteration 39 **********
+----------------------------------
+| EpRewMean           | 1.03e+03 |
+| EpRewStd            | 144      |
+| EpLenMean           | 995      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 149      |
+| GradNorm            | 10.6     |
+| UpdateRatio         | 0.0147   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.09e+03 |
+| TimestepsThisIter   | 4.97e+04 |
+| TimestepsSoFar      | 2.07e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.2     |
+| TimeElapsed         | 682      |
+----------------------------------
+********** Iteration 40 **********
+----------------------------------
+| EpRewMean           | 1.03e+03 |
+| EpRewStd            | 162      |
+| EpLenMean           | 982      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 149      |
+| GradNorm            | 11.9     |
+| UpdateRatio         | 0.0148   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.14e+03 |
+| TimestepsThisIter   | 4.91e+04 |
+| TimestepsSoFar      | 2.12e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 16.5     |
+| TimeElapsed         | 698      |
+----------------------------------
+Saved snapshot logs/Ant_1Worker_Seed1_20260210_170037/snapshot_iter00040_rewnan.h5
+********** Iteration 41 **********
+----------------------------------
+| EpRewMean           | 1e+03    |
+| EpRewStd            | 187      |
+| EpLenMean           | 972      |
+| EvalEpRewMean       | 1.24e+03 |
+| EvalEpRewStd        | 0        |
+| EvalEpLenMean       | 1e+03    |
+| EvalPopRank         | 0.96     |
+| EvalEpCount         | 1        |
+| Norm                | 150      |
+| GradNorm            | 12.2     |
+| UpdateRatio         | 0.015    |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.19e+03 |
+| TimestepsThisIter   | 4.86e+04 |
+| TimestepsSoFar      | 2.17e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.037    |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.8     |
+| TimeElapsed         | 715      |
+----------------------------------
+********** Iteration 42 **********
+----------------------------------
+| EpRewMean           | 1.04e+03 |
+| EpRewStd            | 144      |
+| EpLenMean           | 985      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 150      |
+| GradNorm            | 10.7     |
+| UpdateRatio         | 0.0149   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.24e+03 |
+| TimestepsThisIter   | 4.92e+04 |
+| TimestepsSoFar      | 2.22e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.6     |
+| TimeElapsed         | 732      |
+----------------------------------
+********** Iteration 43 **********
+----------------------------------
+| EpRewMean           | 1.06e+03 |
+| EpRewStd            | 155      |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 150      |
+| GradNorm            | 13.5     |
+| UpdateRatio         | 0.0152   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.3e+03  |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 2.28e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.5     |
+| TimeElapsed         | 748      |
+----------------------------------
+********** Iteration 44 **********
+----------------------------------
+| EpRewMean           | 1.06e+03 |
+| EpRewStd            | 148      |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 150      |
+| GradNorm            | 11.2     |
+| UpdateRatio         | 0.0151   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.35e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 2.33e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.6     |
+| TimeElapsed         | 765      |
+----------------------------------
+********** Iteration 45 **********
+----------------------------------
+| EpRewMean           | 1.04e+03 |
+| EpRewStd            | 156      |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 151      |
+| GradNorm            | 16.1     |
+| UpdateRatio         | 0.0156   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.4e+03  |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 2.38e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.7     |
+| TimeElapsed         | 781      |
+----------------------------------
+********** Iteration 46 **********
+----------------------------------
+| EpRewMean           | 1.08e+03 |
+| EpRewStd            | 238      |
+| EpLenMean           | 966      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 151      |
+| GradNorm            | 9.66     |
+| UpdateRatio         | 0.0154   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.45e+03 |
+| TimestepsThisIter   | 4.83e+04 |
+| TimestepsSoFar      | 2.43e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.4     |
+| TimeElapsed         | 797      |
+----------------------------------
+********** Iteration 47 **********
+----------------------------------
+| EpRewMean           | 1.11e+03 |
+| EpRewStd            | 179      |
+| EpLenMean           | 989      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 151      |
+| GradNorm            | 7.66     |
+| UpdateRatio         | 0.0148   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.5e+03  |
+| TimestepsThisIter   | 4.95e+04 |
+| TimestepsSoFar      | 2.48e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.3     |
+| TimeElapsed         | 813      |
+----------------------------------
+********** Iteration 48 **********
+----------------------------------
+| EpRewMean           | 1.14e+03 |
+| EpRewStd            | 152      |
+| EpLenMean           | 985      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 152      |
+| GradNorm            | 11.4     |
+| UpdateRatio         | 0.0148   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.56e+03 |
+| TimestepsThisIter   | 4.92e+04 |
+| TimestepsSoFar      | 2.53e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 15.8     |
+| TimeElapsed         | 829      |
+----------------------------------
+********** Iteration 49 **********
+----------------------------------
+| EpRewMean           | 1.16e+03 |
+| EpRewStd            | 170      |
+| EpLenMean           | 979      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 152      |
+| GradNorm            | 14.8     |
+| UpdateRatio         | 0.0152   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.61e+03 |
+| TimestepsThisIter   | 4.9e+04  |
+| TimestepsSoFar      | 2.58e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 15.6     |
+| TimeElapsed         | 845      |
+----------------------------------
+********** Iteration 50 **********
+----------------------------------
+| EpRewMean           | 1.15e+03 |
+| EpRewStd            | 146      |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 152      |
+| GradNorm            | 11.2     |
+| UpdateRatio         | 0.015    |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.66e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 2.64e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.1     |
+| TimeElapsed         | 861      |
+----------------------------------
+********** Iteration 51 **********
+----------------------------------
+| EpRewMean           | 1.12e+03 |
+| EpRewStd            | 228      |
+| EpLenMean           | 963      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 152      |
+| GradNorm            | 8.82     |
+| UpdateRatio         | 0.0147   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.71e+03 |
+| TimestepsThisIter   | 4.81e+04 |
+| TimestepsSoFar      | 2.69e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.2     |
+| TimeElapsed         | 877      |
+----------------------------------
+********** Iteration 52 **********
+----------------------------------
+| EpRewMean           | 1.16e+03 |
+| EpRewStd            | 190      |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 153      |
+| GradNorm            | 7.79     |
+| UpdateRatio         | 0.0144   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.76e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 2.74e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.4     |
+| TimeElapsed         | 893      |
+----------------------------------
+********** Iteration 53 **********
+----------------------------------
+| EpRewMean           | 1.17e+03 |
+| EpRewStd            | 189      |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 153      |
+| GradNorm            | 12       |
+| UpdateRatio         | 0.0145   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.82e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 2.79e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.1     |
+| TimeElapsed         | 909      |
+----------------------------------
+********** Iteration 54 **********
+----------------------------------
+| EpRewMean           | 1.17e+03 |
+| EpRewStd            | 170      |
+| EpLenMean           | 985      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 153      |
+| GradNorm            | 12.2     |
+| UpdateRatio         | 0.0146   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.87e+03 |
+| TimestepsThisIter   | 4.92e+04 |
+| TimestepsSoFar      | 2.84e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 16       |
+| TimeElapsed         | 925      |
+----------------------------------
+********** Iteration 55 **********
+----------------------------------
+| EpRewMean           | 1.16e+03 |
+| EpRewStd            | 249      |
+| EpLenMean           | 965      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 153      |
+| GradNorm            | 11.2     |
+| UpdateRatio         | 0.0145   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.92e+03 |
+| TimestepsThisIter   | 4.83e+04 |
+| TimestepsSoFar      | 2.89e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.6     |
+| TimeElapsed         | 941      |
+----------------------------------
+********** Iteration 56 **********
+----------------------------------
+| EpRewMean           | 1.16e+03 |
+| EpRewStd            | 251      |
+| EpLenMean           | 959      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 153      |
+| GradNorm            | 10.5     |
+| UpdateRatio         | 0.0145   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 2.97e+03 |
+| TimestepsThisIter   | 4.8e+04  |
+| TimestepsSoFar      | 2.94e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.8     |
+| TimeElapsed         | 957      |
+----------------------------------
+********** Iteration 57 **********
+----------------------------------
+| EpRewMean           | 1.19e+03 |
+| EpRewStd            | 230      |
+| EpLenMean           | 970      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 154      |
+| GradNorm            | 11.2     |
+| UpdateRatio         | 0.0144   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 3.02e+03 |
+| TimestepsThisIter   | 4.85e+04 |
+| TimestepsSoFar      | 2.99e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.6     |
+| TimeElapsed         | 972      |
+----------------------------------
+********** Iteration 58 **********
+----------------------------------
+| EpRewMean           | 1.18e+03 |
+| EpRewStd            | 281      |
+| EpLenMean           | 958      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 154      |
+| GradNorm            | 14       |
+| UpdateRatio         | 0.0147   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 3.08e+03 |
+| TimestepsThisIter   | 4.79e+04 |
+| TimestepsSoFar      | 3.04e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.7     |
+| TimeElapsed         | 988      |
+----------------------------------
+********** Iteration 59 **********
+----------------------------------
+| EpRewMean           | 1.18e+03 |
+| EpRewStd            | 240      |
+| EpLenMean           | 959      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 154      |
+| GradNorm            | 6        |
+| UpdateRatio         | 0.014    |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 3.13e+03 |
+| TimestepsThisIter   | 4.8e+04  |
+| TimestepsSoFar      | 3.09e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.3     |
+| TimeElapsed         | 1e+03    |
+----------------------------------
+********** Iteration 60 **********
+----------------------------------
+| EpRewMean           | 1.24e+03 |
+| EpRewStd            | 210      |
+| EpLenMean           | 975      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 154      |
+| GradNorm            | 11       |
+| UpdateRatio         | 0.0141   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 3.18e+03 |
+| TimestepsThisIter   | 4.88e+04 |
+| TimestepsSoFar      | 3.14e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.6     |
+| TimeElapsed         | 1.02e+03 |
+----------------------------------
+Saved snapshot logs/Ant_1Worker_Seed1_20260210_170037/snapshot_iter00060_rewnan.h5
+********** Iteration 61 **********
+----------------------------------
+| EpRewMean           | 1.17e+03 |
+| EpRewStd            | 295      |
+| EpLenMean           | 929      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 154      |
+| GradNorm            | 9.28     |
+| UpdateRatio         | 0.0138   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 3.23e+03 |
+| TimestepsThisIter   | 4.65e+04 |
+| TimestepsSoFar      | 3.19e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.1     |
+| TimeElapsed         | 1.03e+03 |
+----------------------------------
+********** Iteration 62 **********
+----------------------------------
+| EpRewMean           | 1.25e+03 |
+| EpRewStd            | 140      |
+| EpLenMean           | 987      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 155      |
+| GradNorm            | 11.5     |
+| UpdateRatio         | 0.014    |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 3.28e+03 |
+| TimestepsThisIter   | 4.93e+04 |
+| TimestepsSoFar      | 3.24e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.6     |
+| TimeElapsed         | 1.05e+03 |
+----------------------------------
+********** Iteration 63 **********
+----------------------------------
+| EpRewMean           | 1.25e+03 |
+| EpRewStd            | 188      |
+| EpLenMean           | 983      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 155      |
+| GradNorm            | 12.5     |
+| UpdateRatio         | 0.0142   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 3.34e+03 |
+| TimestepsThisIter   | 4.91e+04 |
+| TimestepsSoFar      | 3.29e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.6     |
+| TimeElapsed         | 1.07e+03 |
+----------------------------------
+********** Iteration 64 **********
+----------------------------------
+| EpRewMean           | 1.24e+03 |
+| EpRewStd            | 236      |
+| EpLenMean           | 960      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 155      |
+| GradNorm            | 9.51     |
+| UpdateRatio         | 0.0141   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 3.39e+03 |
+| TimestepsThisIter   | 4.8e+04  |
+| TimestepsSoFar      | 3.34e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.6     |
+| TimeElapsed         | 1.08e+03 |
+----------------------------------
+********** Iteration 65 **********
+----------------------------------
+| EpRewMean           | 1.32e+03 |
+| EpRewStd            | 166      |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 155      |
+| GradNorm            | 10.9     |
+| UpdateRatio         | 0.0142   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 3.44e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 3.4e+06  |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 16.1     |
+| TimeElapsed         | 1.1e+03  |
+----------------------------------
+********** Iteration 66 **********
+----------------------------------
+| EpRewMean           | 1.25e+03 |
+| EpRewStd            | 180      |
+| EpLenMean           | 1e+03    |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 155      |
+| GradNorm            | 12.5     |
+| UpdateRatio         | 0.0145   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 3.49e+03 |
+| TimestepsThisIter   | 5e+04    |
+| TimestepsSoFar      | 3.45e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 3e+03    |
+| TimeElapsedThisIter | 16.5     |
+| TimeElapsed         | 1.11e+03 |
+----------------------------------
+********** Iteration 67 **********
+----------------------------------
+| EpRewMean           | 1.29e+03 |
+| EpRewStd            | 266      |
+| EpLenMean           | 961      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 156      |
+| GradNorm            | 12.3     |
+| UpdateRatio         | 0.0146   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 3.54e+03 |
+| TimestepsThisIter   | 4.81e+04 |
+| TimestepsSoFar      | 3.5e+06  |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 0        |
+| TimeElapsedThisIter | 15.3     |
+| TimeElapsed         | 1.13e+03 |
+----------------------------------
+********** Iteration 68 **********
+----------------------------------
+| EpRewMean           | 1.27e+03 |
+| EpRewStd            | 305      |
+| EpLenMean           | 961      |
+| EvalEpRewMean       | nan      |
+| EvalEpRewStd        | nan      |
+| EvalEpLenMean       | nan      |
+| EvalPopRank         | nan      |
+| EvalEpCount         | 0        |
+| Norm                | 156      |
+| GradNorm            | 12.3     |
+| UpdateRatio         | 0.0149   |
+| EpisodesThisIter    | 50       |
+| EpisodesSoFar       | 3.6e+03  |
+| TimestepsThisIter   | 4.8e+04  |
+| TimestepsSoFar      | 3.55e+06 |
+| UniqueWorkers       | 1        |
+| UniqueWorkersFrac   | 0.0385   |
+| ResultsSkippedFrac  | 0.0385   |
+| ObCount             | 1e+03    |
+| TimeElapsedThisIter | 15.6     |
+| TimeElapsed         | 1.14e+03 |
+----------------------------------
+********** Iteration 69 **********
